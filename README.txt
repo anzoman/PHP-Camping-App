@@ -1,4 +1,4 @@
-﻿V aplikacijo se je mođno prijaviti z naslednjimi podatki:
+﻿V aplikacijo se je možno prijaviti z naslednjimi podatki:
 
 UPORABNIŠKO IME: username1
 GESLO: password1
